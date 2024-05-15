@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css" />
+    <title>Login</title>
+</head>
+
+<body>
+
+
+    <form id="formlog">
+        <h1 id="Title" class="font">Log In</h1>
+        <br>
+        <input class="font inlog"  id="email" placeholder="Email Adress" name="email"  pattern="[A-Za-z]{2,4}" type="email" required />
+        <br>
+        <input id="pass" class="font  inlog" placeholder="Password" name="pass" type="password" required />
+        <br>
+        <button id="buttonIn" class="font" onclick="LogIn(event)" type="submit">Log In</button>
+        <br>
+        
+        <p id="text1" class="font">new member?</p>
+        <p id="link" onclick="change()" class="font">Sign In</p>
+        <p id="massage" class="font">  </p>
+    </form>
+
+
+</body>
+<script src="../js/login.js"></script>
+
+</html>
+

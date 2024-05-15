@@ -1,0 +1,322 @@
+[
+    {
+        "Code": 1001,
+        "Meters": 103,
+        "PricePerMeter": 36500,
+        "NumOfRooms": 5,
+        "City": "Jerusalem",
+        "Address": "Yechzkel 23"
+    },
+    {
+        "Code": 1002,
+        "Meters": 50,
+        "PricePerMeter": 20000,
+        "NumOfRooms": 2.5,
+        "City": "Rechasim",
+        "Address": "Golomb 7"
+    },
+    {
+        "Code": 1003,
+        "Meters": 68,
+        "PricePerMeter": 23000,
+        "NumOfRooms": 3.5,
+        "City": "Tzfat",
+        "Address": "Shprintzak 103"
+    },
+    {
+        "Code": 1004,
+        "Meters": 30,
+        "PricePerMeter": 35000,
+        "NumOfRooms": 2,
+        "City": "Beni Brak",
+        "Address": "Or Hachim 13"
+    },
+    {
+        "Code": 1005,
+        "Meters": 55,
+        "PricePerMeter": 29000,
+        "NumOfRooms": 3,
+        "City": "Heifa",
+        "Address": "Hagalil 20"
+    },
+    {
+        "Code": 1006,
+        "Meters": 70,
+        "PricePerMeter": 30000,
+        "NumOfRooms": 4,
+        "City": "Kriyat Gat",
+        "Address": "Harav Shach 55"
+    },
+    {
+        "Code": 1007,
+        "Meters": 45,
+        "PricePerMeter": 32300,
+        "NumOfRooms": 2,
+        "City": "Hadera",
+        "Address": "Levi Eshcol 32"
+    },
+    {
+        "Code": 1008,
+        "Meters": 90,
+        "PricePerMeter": 20000,
+        "NumOfRooms": 4.5,
+        "City": "Kriyat Yearim",
+        "Address": "Br Ilai 66"
+    },
+    {
+        "Code": 1009,
+        "Meters": 78,
+        "PricePerMeter": 25000,
+        "NumOfRooms": 3,
+        "City": "Elad",
+        "Address": "Ben Zacay 9"
+    },
+    {
+        "Code": 1010,
+        "Meters": 70,
+        "PricePerMeter": 10000,
+        "NumOfRooms": 3,
+        "City": "Imanual",
+        "Address": "Netivot Shalom 5"
+    },
+    {
+        "Code": 1011,
+        "Meters": 60,
+        "PricePerMeter": 36000,
+        "NumOfRooms": 2.5,
+        "City": "Jerusalem",
+        "Address": "Slonim 4"
+    },
+    {
+        "Code": 1012,
+        "Meters": 45,
+        "PricePerMeter": 11000,
+        "NumOfRooms": 2.5,
+        "City": "Dimona",
+        "Address": "King Jorj 67"
+    },
+    {
+        "Code": 1013,
+        "Meters": 64,
+        "PricePerMeter": 14000,
+        "NumOfRooms": 3,
+        "City": "Elad",
+        "Address": "Yonatan Ben Uziel 7"
+    },
+    {
+        "Code": 1014,
+        "Meters": 80,
+        "PricePerMeter": 30000,
+        "NumOfRooms": 3.5,
+        "City": "Heifa",
+        "Address": "Trumpeldor 50"
+    },
+    {
+        "Code": 1015,
+        "Meters": 90,
+        "PricePerMeter": 29000,
+        "NumOfRooms": 4,
+        "City": "Jerusalem",
+        "Address": "RaShbam 12"
+    },
+    {
+        "Code": 1016,
+        "Meters": 85,
+        "PricePerMeter": 21300,
+        "NumOfRooms": 3,
+        "City": "Kriyat Gat",
+        "Address": "Fraind 6"
+    },
+    {
+        "Code": 1017,
+        "Meters": 57,
+        "PricePerMeter": 29000,
+        "NumOfRooms": 2.5,
+        "City": "Beni Brak",
+        "Address": "Donolo 8"
+    },
+    {
+        "Code": 1018,
+        "Meters": 28,
+        "PricePerMeter": 35600,
+        "NumOfRooms": 1,
+        "City": "Jerusalem",
+        "Address": "Chagai 12"
+    },
+    {
+        "Code": 1019,
+        "Meters": 49,
+        "PricePerMeter": 32000,
+        "NumOfRooms": 2.5,
+        "City": "Tzfat",
+        "Address": "Keren Hayesod 21"
+    },
+    {
+        "Code": 1020,
+        "Meters": 58,
+        "PricePerMeter": 34000,
+        "NumOfRooms": 4,
+        "City": "Beni Brak",
+        "Address": "Rabi Akiva 109"
+    },
+    {
+        "Code": 1021,
+        "Meters": 86,
+        "PricePerMeter": 25000,
+        "NumOfRooms": 4,
+        "city": "Beitar",
+        "Address": "Hachoze Milublin 4"
+    },
+    {
+        "Code": 1022,
+        "Meters": 44,
+        "PricePerMeter": 33500,
+        "NumOfRooms": 2.5,
+        "City": "Heifa",
+        "Address": "Chanita 21"
+    },
+    {
+        "Code": 1023,
+        "Meters": 35,
+        "PricePerMeter": 33000,
+        "NumOfRooms": 1.5,
+        "City": "Tel Aviv",
+        "Address": "Golda Meir 15"
+    },
+    {
+        "Code": 1024,
+        "Meters": 80,
+        "PricePerMeter": 20000,
+        "NumOfRooms": 4,
+        "City": "Cfar Chabad",
+        "Address": "Harayatz 33"
+    },
+    {
+        "Code": 1025,
+        "Meters": 60,
+        "PricePerMeter": 18000,
+        "NumOfRooms": 2.5,
+        "City": "Kriyat Gat",
+        "Address": "Givat Hamivtar 32"
+    },
+    {
+        "Code": 1026,
+        "Meters": 34,
+        "PricePerMeter": 32000,
+        "NumOfRooms": 2,
+        "City": "Beitar",
+        "Address": "Hadmor Miviznutz 21"
+    },
+    {
+        "Code": 1027,
+        "Meters": 75,
+        "PricePerMeter": 21500,
+        "NumOfRooms": 3.5,
+        "City": "Tveria",
+        "Address": "Rabi Meir Baal Hanes 44"
+    },
+    {
+        "Code": 1028,
+        "Meters": 30,
+        "PricePerMeter": 33000,
+        "NumOfRooms": 2,
+        "City": "Ramat Gan",
+        "Address": "Daniel 3"
+    },
+    {
+        "Code": 1029,
+        "Meters": 120,
+        "PricePerMeter": 28500,
+        "NumOfRooms": 6,
+        "City": "Yerucham",
+        "Address": "Yona 20"
+    },
+    {
+        "Code": 1030,
+        "Meters": 95,
+        "PricePerMeter": 33500,
+        "NumOfRooms": 5,
+        "City": "Jerusalem",
+        "Address": "Devora Hanevia 6"
+    },
+    {
+        "Code": 1031,
+        "Meters": 58,
+        "PricePerMeter": 10000,
+        "NumOfRooms": 2.5,
+        "City": "Tifrach",
+        "Address": "Harav Dov Lando 5"
+    },
+    {
+        "Code": 1032,
+        "Meters": 90,
+        "PricePerMeter": 37000,
+        "NumOfRooms": 4.5,
+        "City": "Jerusalem",
+        "Address": "Yoel 29"
+    },
+    {
+        "Code": 1033,
+        "Meters": 70,
+        "PricePerMeter": 32000,
+        "NumOfRooms": 3,
+        "City": "Elad",
+        "Address": "Rabi Shmuel Oyerbach 16"
+    },
+    {
+        "Code": 1034,
+        "Meters": 105,
+        "PricePerMeter": 36000,
+        "NumOfRooms": 5.5,
+        "City": "Jerusalem",
+        "Address": "Hayeshiva 4"
+    },
+    {
+        "Code": 1035,
+        "Meters": 60,
+        "PricePerMeter": 34000,
+        "NumOfRooms": 4,
+        "City": "Dimona",
+        "Address": "Gordon 30"
+    },
+    {
+        "Code": 1036,
+        "Meters": 78,
+        "PricePerMeter": 31500,
+        "NumOfRooms": 3,
+        "City": "Givaataim",
+        "Address":"Olam Umloon 9"
+    },
+    {
+        "Code": 1037,
+        "Meters": 58,
+        "PricePerMeter": 30000,
+        "NumOfRooms": 2.5,
+        "City": "Kriyat Gat",
+        "Address":"Hazait 19"
+    },
+    {
+        "Code": 1038,
+        "Meters": 100,
+        "PricePerMeter": 38000,
+        "NumOfRooms": 4,
+        "City": "Jerusalem",
+        "Address":"Yafo 100"
+    },
+    {
+        "Code": 1039,
+        "Meters": 85,
+        "PricePerMeter": 37000,
+        "NumOfRooms": 3,
+        "City": "Heifa",
+        "Address":"Hgefen 7"
+    },
+    {
+        "Code": 1040,
+        "Meters": 40,
+        "PricePerMeter":36500 ,
+        "NumOfRooms": 2,
+        "City": "Jerusalem",
+        "Address":"Ramban 31"
+    }
+]
